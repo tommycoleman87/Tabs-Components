@@ -21,7 +21,6 @@
 }
 .dropdown .dropdown-content {
   width: 100%;
-  opacity: 0;
   position: absolute;
   background-color: #ffffff;
   display: flex;
